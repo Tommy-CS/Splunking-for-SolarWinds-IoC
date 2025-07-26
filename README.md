@@ -24,7 +24,7 @@ The goal of this project was to simulate threat hunting and incident analysis by
 - **Date & Time:** `03-04-2024 06:57:28`  
 - **Computer Name:** `WS-SolarWave-212`
 - **Splunk Findings:**
-  <img src="https://github.com/user-attachments/assets/a4e6e150-fd84-4b25-a5ef-2f83613deb2c">
+<img src="https://github.com/user-attachments/assets/a4e6e150-fd84-4b25-a5ef-2f83613deb2c">
 
 - **VirusTotal Result:** 
 <img src="https://github.com/user-attachments/assets/c0053c93-441b-427f-8c11-6d5764ec3eb2" width="600"/>
