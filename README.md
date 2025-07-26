@@ -42,9 +42,9 @@ The goal of this project was to simulate threat hunting and incident analysis by
   - `MX-SolarStorm-136`
   - `WS-SolarLight-943`
 - **Splunk Findings:**
-  <img src="https://github.com/user-attachments/assets/7229ef86-cba5-40c6-be75-2470358fb991">
+<img src="https://github.com/user-attachments/assets/7229ef86-cba5-40c6-be75-2470358fb991">
 - **VirusTotal Result:**
-  <img src="https://github.com/user-attachments/assets/bb520859-47d1-476d-bea4-bc148dc9c6ba" width="600"/>
+<img src="https://github.com/user-attachments/assets/bb520859-47d1-476d-bea4-bc148dc9c6ba" width="600"/>
 
 ---
 
@@ -53,10 +53,10 @@ The goal of this project was to simulate threat hunting and incident analysis by
 - **Date & Time:** `03-05-2024 07:10:28`  
 - **Computer Name:** `LN-SolarShadow-552`  
 - **Splunk Findings:**
-  <img src="https://github.com/user-attachments/assets/94b642f6-f9cb-407e-8447-878b93c5d912">
+<img src="https://github.com/user-attachments/assets/94b642f6-f9cb-407e-8447-878b93c5d912">
 
 - **VirusTotal Result:**  
-  <img src="https://github.com/user-attachments/assets/876f0e93-51d0-4d8c-82fb-55a4e7c3da6d" width="600"/>
+<img src="https://github.com/user-attachments/assets/876f0e93-51d0-4d8c-82fb-55a4e7c3da6d" width="600"/>
 
 ---
 
