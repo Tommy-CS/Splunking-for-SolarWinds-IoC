@@ -1,0 +1,4 @@
+(source="SolarWindsIOCs.csv" OR source="networkproxylog02.csv") 
+| stats values(source) as sources, values("Computer Name") as ComputerName, values(Date) as Date, values(Time) as Time by "IP Address"
+| where mvcount(sources) > 1
+| table "IP Address", ComputerName, Date, Time
