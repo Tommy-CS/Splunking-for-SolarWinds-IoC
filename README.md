@@ -19,7 +19,7 @@ The goal of this project was to simulate threat hunting and incident analysis by
 
 ## Matches Found
 
-### ✅ Match #1
+### Match #1
 - **Matched IP:** `13.59.205.66`  
 - **Date & Time:** `03-04-2024 06:57:28`  
 - **Computer Name:** `WS-SolarWave-212`
@@ -31,7 +31,7 @@ The goal of this project was to simulate threat hunting and incident analysis by
 
 ---
 
-### ✅ Match #2
+### Match #2
 - **Matched IP:** `5.252.177.25`  
 - **Date & Times:**
   - `03-03-2024 07:04:28`
@@ -49,7 +49,7 @@ The goal of this project was to simulate threat hunting and incident analysis by
 
 ---
 
-### ✅ Match #3
+### Match #3
 - **Matched IP:** `54.215.192.52`  
 - **Date & Time:** `03-05-2024 07:10:28`  
 - **Computer Name:** `LN-SolarShadow-552`  
@@ -59,9 +59,12 @@ The goal of this project was to simulate threat hunting and incident analysis by
 - **VirusTotal Result:**  
 <img src="https://github.com/user-attachments/assets/876f0e93-51d0-4d8c-82fb-55a4e7c3da6d" width="600"/>
 
+### Complete Splunk Screenshot
+<img src="https://github.com/user-attachments/assets/2bd76428-5815-4c7c-991f-6bcf9744ab4b" width="600"/>
+
 ---
 
-## 📊 Splunk Dashboard Query
+## Splunk Dashboard Query (SPL)
 
 ```spl
 (source="SolarWindsIOCs.csv" OR source="networkproxylog02.csv") 
