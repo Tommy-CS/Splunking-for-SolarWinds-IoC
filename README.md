@@ -24,7 +24,8 @@ The goal of this project was to simulate threat hunting and incident analysis by
 - **Date & Time:** `03-04-2024 06:57:28`  
 - **Computer Name:** `WS-SolarWave-212`  
 - **VirusTotal Result:** Flagged as suspicious/malicious  
-- <img src="https://github.com/user-attachments/assets/a4e6e150-fd84-4b25-a5ef-2f83613deb2c" width="600"/>
+- <img src="https://github.com/user-attachments/assets/a4e6e150-fd84-4b25-a5ef-2f83613deb2c">
+
 - <img src="https://github.com/user-attachments/assets/c0053c93-441b-427f-8c11-6d5764ec3eb2" width="600"/>
 
 ---
@@ -52,6 +53,7 @@ The goal of this project was to simulate threat hunting and incident analysis by
 - **Computer Name:** `LN-SolarShadow-552`  
 - **VirusTotal Result:** Suspicious  
 - <img src="https://github.com/user-attachments/assets/94b642f6-f9cb-407e-8447-878b93c5d912" width="600"/>
+
 - <img src="https://github.com/user-attachments/assets/876f0e93-51d0-4d8c-82fb-55a4e7c3da6d" width="600"/>
 
 ---
