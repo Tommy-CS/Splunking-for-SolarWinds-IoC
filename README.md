@@ -61,8 +61,8 @@ The goal of this project was to simulate threat hunting and incident analysis by
 
 ---
 
-### Complete Splunk Screenshot
-<img src="https://github.com/user-attachments/assets/2bd76428-5815-4c7c-991f-6bcf9744ab4b" width="600"/>
+### Splunk Report
+<img src="https://github.com/user-attachments/assets/2f7731cc-ab32-4d3c-9222-6a8b8f621163" width="600"/>
 
 ---
 
