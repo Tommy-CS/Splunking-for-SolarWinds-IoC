@@ -27,7 +27,7 @@ The goal of this project was to simulate threat hunting and incident analysis by
   <img src="https://github.com/user-attachments/assets/a4e6e150-fd84-4b25-a5ef-2f83613deb2c">
 
 - **VirusTotal Result:** 
-  <img src="https://github.com/user-attachments/assets/c0053c93-441b-427f-8c11-6d5764ec3eb2" width="600"/>
+<img src="https://github.com/user-attachments/assets/c0053c93-441b-427f-8c11-6d5764ec3eb2" width="600"/>
 
 ---
 
