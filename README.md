@@ -27,7 +27,7 @@ The goal of this project was to simulate threat hunting and incident analysis by
   <img src="https://github.com/user-attachments/assets/a4e6e150-fd84-4b25-a5ef-2f83613deb2c">
 
 - **VirusTotal Result:** 
- <img src="https://github.com/user-attachments/assets/c0053c93-441b-427f-8c11-6d5764ec3eb2" width="600"/>
+  <img src="https://github.com/user-attachments/assets/c0053c93-441b-427f-8c11-6d5764ec3eb2" width="600"/>
 
 ---
 
@@ -44,7 +44,7 @@ The goal of this project was to simulate threat hunting and incident analysis by
 - **Splunk Findings:**
   <img src="https://github.com/user-attachments/assets/7229ef86-cba5-40c6-be75-2470358fb991">
 - **VirusTotal Result:**
- <img src="https://github.com/user-attachments/assets/bb520859-47d1-476d-bea4-bc148dc9c6ba" width="600"/>
+  <img src="https://github.com/user-attachments/assets/bb520859-47d1-476d-bea4-bc148dc9c6ba" width="600"/>
 
 ---
 
