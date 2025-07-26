@@ -22,10 +22,11 @@ The goal of this project was to simulate threat hunting and incident analysis by
 ### ✅ Match #1
 - **Matched IP:** `13.59.205.66`  
 - **Date & Time:** `03-04-2024 06:57:28`  
-- **Computer Name:** `WS-SolarWave-212`  
-- **VirusTotal Result:** Flagged as suspicious/malicious  
-- <img src="https://github.com/user-attachments/assets/a4e6e150-fd84-4b25-a5ef-2f83613deb2c">
+- **Computer Name:** `WS-SolarWave-212`
+- **Splunk Findings:**
+  <img src="https://github.com/user-attachments/assets/a4e6e150-fd84-4b25-a5ef-2f83613deb2c">
 
+- **VirusTotal Result:** 
 - <img src="https://github.com/user-attachments/assets/c0053c93-441b-427f-8c11-6d5764ec3eb2" width="600"/>
 
 ---
@@ -39,10 +40,10 @@ The goal of this project was to simulate threat hunting and incident analysis by
 - **Computer Names:**
   - `LN-SolarStrike-14`
   - `MX-SolarStorm-136`
-  - `WS-SolarLight-943`  
-- **VirusTotal Result:** Malicious  
-- <img src="https://github.com/user-attachments/assets/7229ef86-cba5-40c6-be75-2470358fb991" width="600"/>
-
+  - `WS-SolarLight-943`
+- **Splunk Findings:**
+  <img src="https://github.com/user-attachments/assets/7229ef86-cba5-40c6-be75-2470358fb991">
+**VirusTotal Result:**
 - <img src="https://github.com/user-attachments/assets/bb520859-47d1-476d-bea4-bc148dc9c6ba" width="600"/>
 
 ---
@@ -51,10 +52,11 @@ The goal of this project was to simulate threat hunting and incident analysis by
 - **Matched IP:** `54.215.192.52`  
 - **Date & Time:** `03-05-2024 07:10:28`  
 - **Computer Name:** `LN-SolarShadow-552`  
-- **VirusTotal Result:** Suspicious  
-- <img src="https://github.com/user-attachments/assets/94b642f6-f9cb-407e-8447-878b93c5d912" width="600"/>
+- **Splunk Findings:**
+  <img src="https://github.com/user-attachments/assets/94b642f6-f9cb-407e-8447-878b93c5d912">
 
-- <img src="https://github.com/user-attachments/assets/876f0e93-51d0-4d8c-82fb-55a4e7c3da6d" width="600"/>
+- **VirusTotal Result:**  
+  <img src="https://github.com/user-attachments/assets/876f0e93-51d0-4d8c-82fb-55a4e7c3da6d" width="600"/>
 
 ---
 
