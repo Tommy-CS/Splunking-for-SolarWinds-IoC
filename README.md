@@ -43,6 +43,7 @@ The goal of this project was to simulate threat hunting and incident analysis by
   - `WS-SolarLight-943`
 - **Splunk Findings:**
 <img src="https://github.com/user-attachments/assets/7229ef86-cba5-40c6-be75-2470358fb991">
+
 - **VirusTotal Result:**
 <img src="https://github.com/user-attachments/assets/bb520859-47d1-476d-bea4-bc148dc9c6ba" width="600"/>
 
